@@ -1,0 +1,62 @@
+body {
+    background-color: #fff;
+}
+
+img {
+    max-height: 150px;
+}
+
+form,
+.btn {
+    background-color: #B1DDF1;
+    color: #415A77;
+    border: #F4CBC6;
+}
+
+form {
+    padding: 10px;
+}
+
+h3 {
+    text-align: center;
+}
+
+/* input {
+    align-content: center;
+    align-items: center;
+} */
+
+#newAnime {
+    color: #415A77;
+}
+
+.ratingStyle {
+    color: #415A77;
+    /* background-color: black; */
+    text-align: left;
+    font-size: 10px;
+}
+
+#add-anime {
+    background-color: white;
+    color: #415A77;
+    border: none;
+}
+
+input {
+    margin: 10px;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+#buttons-display {
+    margin: 10px;
+}
+
+.animeBtn {
+    padding: 6px;
+    margin: 5px;
+}
