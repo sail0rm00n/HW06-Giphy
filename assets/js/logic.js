@@ -1,4 +1,4 @@
-var topics = ["Sailor Moon", "Nana", "Gokinjo Monogatari", "Ponyo", "Princess Mononoke", "One Punch Man", "Powerpuff Girls", "Steven Universe"];
+var topics = ["Sailor Moon", "Nana", "Ponyo", "Princess Mononoke", "One Punch Man", "Powerpuff Girls", "Steven Universe", "Kiki's Delivery Service", "Spirited Away", "Moomin"];
 
 var gif; 
 var gifPause; 

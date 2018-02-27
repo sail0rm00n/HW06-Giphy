@@ -1,5 +1,10 @@
+.jumbotron {
+    background-color: #FFDDE2;
+    text-align: center;
+    color: #FF8CC6;
+}
 body {
-    background-color: #fff;
+    background-color: #EDEDEA;
 }
 
 img {
@@ -8,9 +13,8 @@ img {
 
 form,
 .btn {
-    background-color: #B1DDF1;
-    color: #415A77;
-    border: #F4CBC6;
+    background-color: #ED6A5A;
+    color: #EDEDEA;
 }
 
 form {
@@ -27,19 +31,18 @@ h3 {
 } */
 
 #newAnime {
-    color: #415A77;
+    color: #EDEDEA;
 }
 
-.ratingStyle {
-    color: #415A77;
-    /* background-color: black; */
+.rating-css {
+    color: #414140;
     text-align: left;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 #add-anime {
-    background-color: white;
-    color: #415A77;
+    background-color: #EDEDEA;
+    color: #414140;
     border: none;
 }
 
@@ -59,4 +62,6 @@ button {
 .animeBtn {
     padding: 6px;
     margin: 5px;
+    background-color: #ED6A5A;
+    color: #EDEDEA;
 }
