@@ -18,7 +18,7 @@ function makeButtons(){
 		$(".gif-display").empty();
 
 		var anime = $(this).data("name");
-		var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + anime + "&limit=10&api_key=dc6zaTOxFJmzC";
+		var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + anime + "&limit=10&api_key=dc6zaTOxFJmzC";
 		$.ajax({
             url: queryURL, 
             method: "GET"
